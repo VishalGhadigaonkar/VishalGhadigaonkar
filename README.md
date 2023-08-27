@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vishal Ghadigaonkar</h1>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://in.linkedin.com/in/vishal-ghadigaonkar-243759218" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://in.linkedin.com/in/vishal-ghadigaonkar-243759218" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/vishal-ghadigaonkar-243759218" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vishal-ghadigaonkar-243759218" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/vishal_ghadigaonkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vishal_ghadigaonkar" height="30" width="40" /></a>
 </p>
 <h3 align="left">Languages and Tools:</h3>
